@@ -1,1 +1,1 @@
-Writing scripts of python and Tcl, to compare
+Multiple scripts duplicated in multiple languages.
