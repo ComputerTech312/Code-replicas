@@ -1,5 +1,6 @@
-foo = "moo"
+foo = 'moo'
+moo = 'foo'
 print(foo)
-
+print(moo)
 
 
