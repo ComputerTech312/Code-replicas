@@ -1,4 +1,5 @@
-print('foo')
+foo = "moo"
+print(foo)
 
 
 
