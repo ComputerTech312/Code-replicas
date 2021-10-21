@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import random
 
 foo = random.randint(0, 100)
