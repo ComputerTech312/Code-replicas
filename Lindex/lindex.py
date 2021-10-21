@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 foo = 'moo!boo'
 
 moo = foo.split('!')
