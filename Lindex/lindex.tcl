@@ -1,3 +1,5 @@
+#!/usr/bin/tclsh
+
 set foo "moo!boo"
 
 set moo [split $foo !]
