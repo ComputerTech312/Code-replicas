@@ -1,3 +1,3 @@
-/usr/bin/nim
+#!/usr/bin/nim
 
 echo "Hello World!"
