@@ -1,1 +1,1 @@
-Multiple scripts duplicated in multiple languages.
+Multiple pieces of code replicated in various languages.
