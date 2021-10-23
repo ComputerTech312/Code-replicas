@@ -1,3 +1,3 @@
 /usr/bin/nim
 
-echo "twat"
+echo "Hello World!"
