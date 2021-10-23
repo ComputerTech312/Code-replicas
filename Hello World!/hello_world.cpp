@@ -1,4 +1,4 @@
-/usr/bin/gcc
+#!/usr/bin/gcc
 
 #include <iostream>
 
