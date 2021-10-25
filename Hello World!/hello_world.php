@@ -1,5 +1,5 @@
 #!/usr/bin/php
 
 <?php
-echo "twat";
+echo "Hello World!";
 ?>
