@@ -1,4 +1,4 @@
-#!/usr/bin/gcc
+
 
 #include <iostream>
 int main() {
