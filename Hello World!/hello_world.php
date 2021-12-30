@@ -1,5 +1,3 @@
-#!/usr/bin/php
-
 <?php
-echo "Hello World!";
+printf("Hello World!");
 ?>
