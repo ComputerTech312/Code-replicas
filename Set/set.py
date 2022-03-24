@@ -1,0 +1,3 @@
+moo = 'foo'
+
+print(moo)
