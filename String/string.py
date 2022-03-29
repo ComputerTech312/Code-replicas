@@ -1,7 +1,7 @@
-string1 = "Linux"
+moo = "foo"
 
-string2 = "Hint"
+doo = "hoo"
 
-joined_string = string1 + string2
+soo = moo = doo
 
-print(joined_string)
+print(soo)
