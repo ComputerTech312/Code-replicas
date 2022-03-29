@@ -2,6 +2,6 @@ moo = "foo"
 
 doo = "hoo"
 
-soo = moo = doo
+soo = moo + doo
 
 print(soo)
